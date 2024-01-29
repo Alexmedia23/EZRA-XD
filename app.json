@@ -20,10 +20,6 @@
       "description": "Remove bg api key ",
       "required": false
     },
-    "SESSION_ID": {
-      "description": "Afiya-md session id",
-      "required": true
-    },
     "LOGS": {
       "description": "need to show message logs ?",
       "required": false
